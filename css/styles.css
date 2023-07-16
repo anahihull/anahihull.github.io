@@ -1,0 +1,137 @@
+body{
+    background: #F7E2D3;
+    font-family: 'Quicksand';
+   
+}
+
+header .nav{
+    min-height: 80px;
+    overflow: hidden;
+    background: #FAB076;
+    color: #444444;
+
+}
+
+header .logo p,
+header .logo h2{
+    font-size: 16px;
+    display: inline-block;
+    
+}
+
+header .logo .icono{
+    color: #F1746E ;
+}
+
+header .logo svg{
+    width: 20px;
+    height: 20px;
+}
+
+header .menu .c1{ background: #59918B;}
+header .menu .c2 { background: #F1746E; }
+header .menu .c3 { background: #003855; }
+
+header .menu .c1:hover { background: #f78b5d; }
+header .menu .c2:hover { background: #f78b5d; }
+header .menu .c3:hover { background: #f78b5d; }
+
+.foxCoding{
+    background: #59918B;
+    color: white;
+}
+
+.atenea{
+    background: #F1746E;
+    color: white;
+}
+
+.seaFox{
+    background: #FAB076;
+    color: white;
+}
+
+.miNombre{
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.progress{
+    height: 20px;
+    background: #dbc2b8 ;
+    font-weight: bold;
+}
+
+.progress-barHtml{
+    background: #F1746E;
+    line-height: 25px;
+    padding-left: 20px;
+    color: white;
+    height: 25px;
+    width: 90%;
+}
+
+.progress-barJS{
+    background: #59918B;
+    line-height: 25px;
+    padding-left: 20px;
+    color: white;
+    height: 25px;
+    width: 75%;
+}
+
+.progress-barCSS{
+    background: #FAB076;
+    line-height: 25px;
+    padding-left: 20px;
+    color: white;
+    height: 25px;
+    width: 100%;
+}
+
+.contact .title{
+    color: #F1746E;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.contact .forms input[type="text"],
+.contact .forms input[type="email"],
+.contact .forms textarea {
+	padding: 15px;
+	border: none;
+
+}
+
+.contact .forms textarea {
+	height: 200px;
+	min-height: 150px;
+	max-height: 250px;
+}
+
+.contact .forms .button {
+	background: #003855;
+	border: none;
+	padding: 7px 30px;
+	color: #fff;
+	cursor: pointer;
+	width: auto;
+	border-radius: 10px;
+}
+
+.contact .forms .button:hover {
+	background: #F1746E;
+}
+
+.iconsSocials{
+    width: 80px;
+}
+
+/*colors
+#F1746E rosa salmon
+#F7E2D3 beige claro
+#AE9C94 cafe grisaseo
+#59918B azul verde mate
+#FAB076 naranja pastel */
