@@ -39,16 +39,19 @@ header .menu .c3:hover { background: #f78b5d; }
 .foxCoding{
     background: #59918B;
     color: white;
+    border: none;
 }
 
 .atenea{
     background: #F1746E;
     color: white;
+    border: none;
 }
 
 .seaFox{
     background: #FAB076;
     color: white;
+    border: none;
 }
 
 .miNombre{
